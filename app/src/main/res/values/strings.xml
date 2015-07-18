@@ -2,5 +2,9 @@
     <string name="app_name">MyAndroidApp</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="launchCamera">Take photo</string>
+    <string name="newMemory">New Memory</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_new_memory">NewMemory</string>
+    <string name="memoryImage">MemoryImage</string>
 </resources>
